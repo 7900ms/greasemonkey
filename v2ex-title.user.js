@@ -26,7 +26,7 @@ function theBanner(){
   var theB = $('#Top > div:nth-child(1) > div:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) > a:nth-child(1) > img:nth-child(1)');
   theB.attr('height', '30px');
   theB.attr('width', '94px');
-  theB.attr('alt', 'V2 茶话会');
+  theB.attr('alt', 'V2茶话会');
   theB.attr('src', 'http://i.imgur.com/BtTXuGU.png');
 };
 
